@@ -1,1 +1,5 @@
-这是branch1上的内容
+aa.txt这是一段文字
+希望坦恩达到很好的合并效果
+多写点
+version1
+version2
